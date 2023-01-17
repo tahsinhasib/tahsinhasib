@@ -1,5 +1,8 @@
 ## Hey there,  I'm Tahsin Hasib
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsinhasib&label=Profile%20views&color=0e8bb4&style=flat" alt="tahsinhasib" /></p>
+
 ### 🔗 About me :
 ✔ Bachelor in Science in Computer Science and Engineering, American International University - Bangladesh. <br>
 ✔ Secondary and Higher Secondary from Baf Shaheen College, Dhaka. <br>
@@ -40,6 +43,7 @@
 <a href = "https:https://twitter.com/tahsinhasib_152"><img src ="https://img.icons8.com/fluent/48/000000/twitter.png" width ="40px"/></a>
 <img src = "https://img.icons8.com/fluent/48/000000/discord.png" width ="40px"/>
 <a href = "https://www.hackerrank.com/tahsinhasib"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
+<a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width = "40px"/></a>
 
 
 ### 🔗 Contribution :
