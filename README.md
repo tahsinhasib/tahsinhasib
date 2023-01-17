@@ -1,7 +1,8 @@
 ## Hey there,  I'm Tahsin Hasib
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsinhasib&label=Profile%20views&color=0e8bb4&style=flat" alt="tahsinhasib" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=tahsinhasib&label=Profile%20views&color=0e8bb4&style=flat" alt="tahsinhasib" /></p>
+
 
 ### 🔗 About me :
 ✔ Bachelor in Science in Computer Science and Engineering, American International University - Bangladesh. <br>
