@@ -56,7 +56,7 @@
 
 <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=tahsinhasib&theme=react-dark&area=true&hide_border=false)">
 
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&show_icons=true" width = "400px"><img align = "right" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue" width = "400px"></p> <br><br><br><br><br><br><br><br>
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&show_icons=true" width = "400px"><img align = "right" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue" width = "400px"></p> <br><br><br><br><br><br><br><br><br>
 
 <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10" width = "400px">
 
