@@ -5,7 +5,9 @@
 
 
 ### 🔗 About me :
-✔ Bachelor in Science in Computer Science and Engineering, American International University - Bangladesh. <br>
+<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10" width = "400px">
+
+✔ American International University - Bangladesh. <br>
 ✔ Secondary and Higher Secondary from Baf Shaheen College, Dhaka. <br>
 ✔ Competitive mindset for problem solving. <br>
 ✔ Favourite language is Java. <br>
@@ -58,7 +60,7 @@
 
 <p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&show_icons=true" width = "400px"><img align = "right" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue" width = "400px"></p> <br><br><br><br><br><br><br><br><br>
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10" width = "400px">
+
 
 
 
