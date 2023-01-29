@@ -2,10 +2,8 @@
 
 
 <p><img src="https://komarev.com/ghpvc/?username=tahsinhasib&label=Profile%20views&color=0e8bb4&style=flat" alt="tahsinhasib" /></p>
-<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10" width = "300px"><br>
 
-
-### 🔗 About me :
+### 🔗 About me : <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&layout=compact&langs_count=10" width = "300px"><br>
 
 ✔ American International University - Bangladesh. <br>
 ✔ Secondary and Higher Secondary from Baf Shaheen College, Dhaka. <br>
