@@ -9,6 +9,7 @@
 ✔ Secondary and Higher Secondary from Baf Shaheen College, Dhaka. <br>
 ✔ Competitive mindset for problem solving. <br>
 ✔ Favourite language is Java. <br>
+✔ Experienced in UI framework based projects. <br>
 ✔ Interested in playing FPS games and Battle Royales.
 
 
