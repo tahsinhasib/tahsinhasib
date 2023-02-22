@@ -39,6 +39,7 @@
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"> 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1024px-OBS.svg.png"> 
 <img height="50" src = "https://www.umlet.com/pic/UMLet_logo_small.png">
+<img height="50" src = "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-4.png">
 
 
 
