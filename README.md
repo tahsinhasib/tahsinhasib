@@ -10,7 +10,8 @@
 ✔ Competitive mindset for problem solving. <br>
 ✔ Favourite language is Java. <br>
 ✔ Experienced in UI framework based projects. <br>
-✔ Interested in playing FPS games and Battle Royales.
+✔ Interested in playing FPS games and Battle Royales. <br>
+✔ Email : **tahsinhasib@gmail.com**
 
 
 
