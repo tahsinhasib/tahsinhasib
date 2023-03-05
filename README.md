@@ -2,6 +2,7 @@
 
 
 <p><img src="https://komarev.com/ghpvc/?username=tahsinhasib&label=Profile%20views&color=0e8bb4&style=flat" alt="tahsinhasib" /></p>
+<p><img src="https://img.shields.io/badge/American International University Bangladesh-blue"> <img src="https://img.shields.io/badge/FPS Gamer - Green"></p>
 
 ### 🔗 About me : <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15" width = "360px"> <br>
 
