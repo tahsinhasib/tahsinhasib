@@ -30,7 +30,9 @@
 ### 🔗 Working Tools :
 
 <img height="50" src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"><img height ="50"> 
-<img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"> 
+<img height="50" src = "https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png">
+<img height="50" src = "https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png">
 <img height="50" src = "https://www.nesabamedia.com/wp-content/uploads/2019/07/Code-Blocks-Logo-1.png"> 
 <img height="50" src = "https://i0.wp.com/sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png?ssl=1">
 <img height="50" src = "https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png">
