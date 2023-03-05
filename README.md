@@ -40,7 +40,6 @@
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png">
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/2101px-Adobe_Photoshop_Express_logo.svg.png"> 
-<img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"> 
 <img height="50" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1024px-OBS.svg.png"> 
 <img height="50" src = "https://www.umlet.com/pic/UMLet_logo_small.png">
 <img height="50" src = "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-4.png">
@@ -53,6 +52,7 @@
 <a href = "https://www.instagram.com/tahsinhasib_/"><img src ="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" width ="40px"/></a>
 <a href = "https://www.linkedin.com/in/tahsinhasib/"><img src ="https://img.icons8.com/fluent/48/000000/linkedin.png" width ="40px"/></a>
 <a href = "https:https://twitter.com/tahsinhasib_152"><img src ="https://img.icons8.com/fluent/48/000000/twitter.png" width ="40px"/></a>
+<a href = "https://www.twitch.tv/tahsinhasib"><img src ="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" width ="40px"/></a>
 <img src = "https://img.icons8.com/fluent/48/000000/discord.png" width ="40px"/>
 <a href = "https://www.hackerrank.com/tahsinhasib"><img src = "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width = "40px"/></a>
 <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width = "40px"/></a>
