@@ -31,6 +31,8 @@
 <img height="50" src = "https://img.icons8.com/color/256/adobe-photoshop--v1.png"> 
 <img height="50" src = "https://img.icons8.com/fluency/256/obs-studio.png"> 
 <img height="50" src = "https://img.icons8.com/color/256/microsoft-sql-server.png">
+<img height="50" src = "https://img.icons8.com/color/256/git.png">
+
 
 
 
