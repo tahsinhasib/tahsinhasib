@@ -2,7 +2,7 @@
 
 ### 💠 About me : <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15" width = "360px"> <br>
 
-*Been doing various UI projects in C#, Java alongside bearing gigantic academic load. Another day, another bug. Whatever, that's life...*
+*Been doing various UI projects in C#, Java alongside bearing gigantic academic load. Another day, another bug. Whatever, that's life... One thing life taught me that one should never give up even in their worst days. Who knows what miracle awaits for them!*
 
 
 
