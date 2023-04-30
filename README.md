@@ -34,6 +34,10 @@
 <img height="50" src = "https://img.icons8.com/color/256/git.png">
 
 
+### 💠 Prefered Games :
+<img height="50" src = "https://img.icons8.com/?size=512&id=yWtH78otokhy&format=png"><img height ="50"> 
+<img height="50" src = "https://img.icons8.com/?size=512&id=aUZxT3Erwill&format=png">
+<img height="50" src = "https://img.icons8.com/?size=512&id=WO26shRzhHMv&format=png">
 
 
 ### 💠 Connect me :
