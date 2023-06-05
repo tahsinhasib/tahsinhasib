@@ -11,6 +11,7 @@
 <img height="50" src="https://img.icons8.com/color/256/c-plus-plus-logo.png"/>
 <img height="50" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"/>
 <img height="50" src="https://img.icons8.com/color/256/html-5--v1.png"/>
+<img height="50" src="https://img.icons8.com/?size=512&id=21278&format=png"/>
 <img height="50" src="https://img.icons8.com/color/256/mysql-logo.png"/>
 <img height="50" src="https://img.icons8.com/color/256/c-sharp-logo-2.png"/>
 
