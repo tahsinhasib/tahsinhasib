@@ -60,7 +60,7 @@
 
 
 <div>
-  <p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "450px"><img align = "right"   src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "475px"></p>
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "450px" display="flex"><img align = "right"   src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "475px" display="flex">
 </div>
 
 
