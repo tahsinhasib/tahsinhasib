@@ -3,7 +3,7 @@
 ### Specialization :
 <table><tr><td valign="top" width="33%">
 
-  ### <p align="center" color="cyan">Tech Stack</p> 
+  ### <p align="center">Tech Stack</p> 
 <div align="center">  
   <img src="https://img.icons8.com/color/256/c-programming.png" height="50" />  
   <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" height="50" />  
@@ -15,7 +15,7 @@
   <img src="https://img.icons8.com/color/256/c-sharp-logo-2.png" height="50" />  
 </div></td><td valign="top" width="33%">
 
-  ### <p align="center" color="cyan">Softwares & System</p>
+  ### <p align="center">Softwares & System</p>
 <div align="center">  
   <img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png">
   <img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
@@ -28,7 +28,7 @@
 </div>
   </td><td valign="top" width="33%">
   
-  ### <p align="center" color="cyan">Productivity</p>  
+  ### <p align="center">Productivity</p>  
 <div align="center">  
   <img height="50" src = "https://img.icons8.com/color/256/ms-word.png">
   <img height="50" src = "https://img.icons8.com/color/256/ms-powerpoint--v1.png">
