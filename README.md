@@ -61,16 +61,15 @@
 
 
 ### Connect me :
-
-<a href = "https://facebook.com/tahsin.hasib.30/"><img src ="https://img.icons8.com/fluency/256/facebook.png" width ="40px"/></a>
-<a href = "https://www.instagram.com/tahsinhasib_/"><img height="40" src ="https://img.icons8.com/fluency/256/instagram-new.png"/></a>
-<a href = "https://www.linkedin.com/in/tahsinhasib/"><img src ="https://img.icons8.com/fluency/256/linkedin.png" width ="40px"/></a>
-<a href = "https:https://twitter.com/tahsinhasib_152"><img src ="https://img.icons8.com/fluency/256/twitter.png" width ="40px"/></a>
-<a href = "https://www.twitch.tv/tahsinhasib"><img src ="https://img.icons8.com/color/256/twitch--v2.png" width ="40px"/></a>
-<img src = "https://img.icons8.com/fluency/256/discord-logo.png" width ="40px"/>
-<a href = "https://www.hackerrank.com/tahsinhasib"><img src = "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width = "40px"/></a>
-<a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width = "40px"/></a>
-<a href = "https://stackoverflow.com/users/21026575/tahsin-hasib"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width = "40px"/></a>
-<a href = "https://auth.geeksforgeeks.org/user/tahsinhasib"><img src = "https://img.icons8.com/color/256/GeeksforGeeks.png" width = "40px"/></a>
+<a href = "https://facebook.com/tahsin.hasib.30/"><img src ="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href = "https://www.instagram.com/tahsinhasib_/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/tahsinhasib/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https:https://twitter.com/tahsinhasib_152"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href = "https://www.twitch.tv/tahsinhasib"><img src ="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href = "https://www.hackerrank.com/tahsinhasib"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href = "https://stackoverflow.com/users/21026575/tahsin-hasib"><img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/tahsinhasib"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
 
