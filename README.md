@@ -47,7 +47,7 @@
 </div></td><td valign="top" width="33%">
 
 <div align="center">
-  <img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width = "400px">
+  <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width = "400px"></a>
 </div>
   </td><td valign="top" width="33%">
     
