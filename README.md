@@ -1,41 +1,55 @@
 ## MD. TAHSIN HASIB
 
-### Tech Stack
-<img height="50" src="https://img.icons8.com/color/256/c-programming.png"/><img height = "50">
-<img height="50" src="https://img.icons8.com/color/256/c-plus-plus-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/256/html-5--v1.png"/>
-<img height="50" src="https://img.icons8.com/?size=512&id=21278&format=png"/>
-<img height="50" src="https://img.icons8.com/color/256/mysql-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/256/c-sharp-logo-2.png"/>
+### Specialization :
+<table><tr><td valign="top" width="30%">
+
+  ### <p align="center">Tech Stack</p> 
+<div align="center">  
+  <img src="https://img.icons8.com/color/256/c-programming.png" height="50" />  
+  <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" height="50" />  
+  <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" height="50" />  
+  <img src="https://img.icons8.com/color/256/html-5--v1.png" height="50" />  
+  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="50" />  
+  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="50" />  
+  <img src="https://img.icons8.com/color/256/mysql-logo.png" height="50" />  
+  <img src="https://img.icons8.com/color/256/c-sharp-logo-2.png" height="50" />  
+</div></td><td valign="top" width="30%">
+
+  ### <p align="center">Softwares & System</p>
+<div align="center">  
+  <img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png">
+  <img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
+  <img height="50" src = "https://img.icons8.com/fluency/256/sublime-text.png">
+  <img height="50" src = "https://img.icons8.com/color/256/code-blocks.png"> 
+  <img height="50" src = "https://img.icons8.com/color/256/microsoft-sql-server.png">
+  <img height="50" src = "https://img.icons8.com/color/256/git.png"> 
+  <img height="50" src = "https://img.icons8.com/?size=512&id=108792&format=png"> 
+  <img height="50" src = "https://img.icons8.com/?size=512&id=63208&format=png">
+</div>
+  </td><td valign="top" width="30%">
+  
+  ### <p align="center">Productivity</p>  
+<div align="center">  
+  <img height="50" src = "https://img.icons8.com/color/256/ms-word.png">
+  <img height="50" src = "https://img.icons8.com/color/256/ms-powerpoint--v1.png">
+  <img height="50" src = "https://img.icons8.com/color/256/ms-excel.png">
+  <img height="50" src = "https://img.icons8.com/fluency/256/microsoft-teams-2019.png">
+  <img height="50" src = "https://img.icons8.com/color/256/adobe-photoshop--v1.png">
+  <img height="50" src = "https://img.icons8.com/fluency/256/obs-studio.png"> 
+</div>
+  </td></tr></table>  
+
+### Contribution :
+
+<!--<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)">-->
+
+[![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)](https://github.com/tahsinhasib/github-readme-activity-graph)
 
 
 
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "400px"><img align = "right" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "400px"></p> <br><br><br><br><br><br><br><br><br>
 
-### Softwares :
-<img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png"><img height ="50"> 
-<img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
-<img height="50" src = "https://img.icons8.com/fluency/256/sublime-text.png">
-<img height="50" src = "https://img.icons8.com/color/256/code-blocks.png"> 
-<img height="50" src = "https://img.icons8.com/color/256/microsoft-sql-server.png">
-<img height="50" src = "https://img.icons8.com/color/256/git.png">
-
-
-### Productivity :
-<img height="50" src = "https://img.icons8.com/color/256/ms-word.png"><img height ="50"> 
-<img height="50" src = "https://img.icons8.com/color/256/ms-powerpoint--v1.png">
-<img height="50" src = "https://img.icons8.com/color/256/ms-excel.png">
-<img height="50" src = "https://img.icons8.com/fluency/256/microsoft-teams-2019.png">
-
-### Designing :
-<img height="50" src = "https://img.icons8.com/color/256/adobe-photoshop--v1.png"><img height ="50"> 
-<img height="50" src = "https://img.icons8.com/fluency/256/obs-studio.png"> 
-
-### System :
-<img height="50" src = "https://img.icons8.com/?size=512&id=108792&format=png"><img height ="50"> 
-<img height="50" src = "https://img.icons8.com/?size=512&id=63208&format=png">
-
-### 💠 Connect me :
+### Connect me :
 
 <a href = "https://facebook.com/tahsin.hasib.30/"><img src ="https://img.icons8.com/fluency/256/facebook.png" width ="40px"/></a>
 <a href = "https://www.instagram.com/tahsinhasib_/"><img height="40" src ="https://img.icons8.com/fluency/256/instagram-new.png"/></a>
@@ -47,19 +61,6 @@
 <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width = "40px"/></a>
 <a href = "https://stackoverflow.com/users/21026575/tahsin-hasib"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width = "40px"/></a>
 <a href = "https://auth.geeksforgeeks.org/user/tahsinhasib"><img src = "https://img.icons8.com/color/256/GeeksforGeeks.png" width = "40px"/></a>
-
-
-### 💠 Contribution :
-
-<!--<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)">-->
-
-[![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)](https://github.com/tahsinhasib/github-readme-activity-graph)
-
-
-
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "400px"><img align = "right" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "400px"></p> <br><br><br><br><br><br><br><br><br>
-
-
 
 <!--
 <p><img src="https://komarev.com/ghpvc/?username=tahsinhasib&label=Profile%20views&color=0e8bb4&style=flat" alt="tahsinhasib" /></p>
