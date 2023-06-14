@@ -43,11 +43,17 @@
 [![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)](https://github.com/tahsinhasib/github-readme-activity-graph)
 
 ### Github Status and Contribution :
+<div>
 <div align="left">
   <img src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "500px">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15&hide=plsql" width = "500px">
-    <br>
+
   <img src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "500px">
+</div>
+<div align="right">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&layout=pie" width = "400px">
+</div>
+</div>
+
   
 
 ### Connect me :
@@ -63,7 +69,4 @@
 <a href = "https://stackoverflow.com/users/21026575/tahsin-hasib"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width = "40px"/></a>
 <a href = "https://auth.geeksforgeeks.org/user/tahsinhasib"><img src = "https://img.icons8.com/color/256/GeeksforGeeks.png" width = "40px"/></a>
 
-<!--
-<p><img src="https://komarev.com/ghpvc/?username=tahsinhasib&label=Profile%20views&color=0e8bb4&style=flat" alt="tahsinhasib" /></p>
-<p><img src="https://img.shields.io/badge/American International University Bangladesh-blue"> <img src="https://img.shields.io/badge/FPS Gamer - Green"></p>
--->
+
