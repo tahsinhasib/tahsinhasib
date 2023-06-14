@@ -45,10 +45,10 @@
 ### Github Status and Contribution :
 <div>
 <p>
-  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "450px">
+  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "420px">
   <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&layout=pie" width = "400px">
   <br>
-  <img align="left" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "450px">
+  <img align="left" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "420px">
 </p>
 </div>
 
