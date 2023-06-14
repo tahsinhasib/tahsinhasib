@@ -1,7 +1,7 @@
 ## MD. TAHSIN HASIB
 
 ### Specialization :
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="33%">
 
   ### <p align="center">Tech Stack</p> 
 <div align="center">  
@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="50" />  
   <img src="https://img.icons8.com/color/256/mysql-logo.png" height="50" />  
   <img src="https://img.icons8.com/color/256/c-sharp-logo-2.png" height="50" />  
-</div></td><td valign="top" width="30%">
+</div></td><td valign="top" width="33%">
 
   ### <p align="center">Softwares & System</p>
 <div align="center">  
@@ -26,7 +26,7 @@
   <img height="50" src = "https://img.icons8.com/?size=512&id=108792&format=png"> 
   <img height="50" src = "https://img.icons8.com/?size=512&id=63208&format=png">
 </div>
-  </td><td valign="top" width="30%">
+  </td><td valign="top" width="33%">
   
   ### <p align="center">Productivity</p>  
 <div align="center">  
