@@ -40,14 +40,12 @@
   </td></tr></table>  
 
 ### Contribution :
-
-<!--<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)">-->
-
 [![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)](https://github.com/tahsinhasib/github-readme-activity-graph)
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "100%">
+### Github Status and Contribution :
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=github_dark&&count_private=true&show_icons=true" width = "500px">
 
-<img align = "right" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "400px"></p> <br><br><br><br><br><br><br><br><br>
+<img align = "left" src = "https://streak-stats.demolab.com?user=tahsinhasib&theme=github-dark-blue&count_private=true" width = "500px">
 
 ### Connect me :
 
