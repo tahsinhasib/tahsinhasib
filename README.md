@@ -1,6 +1,5 @@
-## [MD. TAHSIN HASIB](https://github.com/tahsinhasib)
 
-### Specialization :
+## Specialization :
 <table><tr><td valign="top" width="33%">
 
   ### <p align="center">Tech Stack</p> 
@@ -55,11 +54,11 @@
 </div>
   </td></tr></table>  
 
-### Contribution :
+## Contribution :
 [![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)](https://github.com/tahsinhasib/github-readme-activity-graph)
 
 
-### Connect me :
+## Connect me :
 <a href = "https://facebook.com/tahsin.hasib.30/"><img src ="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href = "https://www.instagram.com/tahsinhasib_/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/tahsinhasib/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
