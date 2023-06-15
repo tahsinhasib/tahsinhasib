@@ -9,8 +9,7 @@
   <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" height="50" />  
   <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" height="50" />  
   <img src="https://img.icons8.com/color/256/html-5--v1.png" height="50" />  
-  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="50" />  
-  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="50" />  
+  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="50" />   
   <img src="https://img.icons8.com/color/256/mysql-logo.png" height="50" />  
   <img src="https://img.icons8.com/color/256/c-sharp-logo-2.png" height="50" />  
 </div></td><td valign="top" width="33%">
