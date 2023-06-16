@@ -1,61 +1,31 @@
+## Tech Stack :
+<img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img>
+<img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-## Specialization :
-<table><tr><td valign="top" width="33%">
+## Softwares :
+<img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img>
+<img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+<img src ="	https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
 
-  ### <p align="center">Tech Stack</p> 
-<div align="center">  
-  <img src="https://img.icons8.com/color/256/c-programming.png" height="50" />  
-  <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" height="50" />  
-  <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" height="50" />  
-  <img src="https://img.icons8.com/color/256/html-5--v1.png" height="50" />  
-  <img src="https://img.icons8.com/?size=512&id=21278&format=png" height="50" />   
-  <img src="https://img.icons8.com/color/256/mysql-logo.png" height="50" />  
-  <img src="https://img.icons8.com/color/256/c-sharp-logo-2.png" height="50" />  
-</div></td><td valign="top" width="33%">
+## Terminals :
+<img src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><img>
+<img src ="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
 
-  ### <p align="center">Softwares & System</p>
-<div align="center">  
-  <img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png">
-  <img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
-  <img height="50" src = "https://img.icons8.com/fluency/256/sublime-text.png">
-  <img height="50" src = "https://img.icons8.com/color/256/code-blocks.png"> 
-  <img height="50" src = "https://img.icons8.com/color/256/microsoft-sql-server.png">
-  <img height="50" src = "https://img.icons8.com/color/256/git.png"> 
-  <img height="50" src = "https://img.icons8.com/?size=512&id=108792&format=png"> 
-  <img height="50" src = "https://img.icons8.com/?size=512&id=63208&format=png">
-</div>
-  </td><td valign="top" width="33%">
-  
-  ### <p align="center">Productivity</p>  
-<div align="center">  
-  <img height="50" src = "https://img.icons8.com/color/256/ms-word.png">
-  <img height="50" src = "https://img.icons8.com/color/256/ms-powerpoint--v1.png">
-  <img height="50" src = "https://img.icons8.com/color/256/ms-excel.png">
-  <img height="50" src = "https://img.icons8.com/fluency/256/microsoft-teams-2019.png">
-  <img height="50" src = "https://img.icons8.com/color/256/adobe-photoshop--v1.png">
-  <img height="50" src = "https://img.icons8.com/fluency/256/obs-studio.png"> 
-</div>
-  </td></tr></table>  
-  
-<table><tr><td valign="top" width="33%">
-
-   
-<div align="center">  
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15&hide=plsql" width = "400px"> 
-</div></td><td valign="top" width="33%">
-
-<div align="center">
-  <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width = "400px"></a>
-</div>
-  </td><td valign="top" width="33%">
-    
-<div align="center">  
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "400px">
-</div>
-  </td></tr></table>  
-
-## Contribution :
-[![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&theme=react-dark&count_private=true&area=true&hide_border=false)](https://github.com/tahsinhasib/github-readme-activity-graph)
+## Productivity :
+<img src ="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/><img>
+<img src ="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 
 
 ## Connect me :
