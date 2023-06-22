@@ -43,32 +43,3 @@
 <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href = "https://stackoverflow.com/users/21026575/tahsin-hasib"><img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href = "https://auth.geeksforgeeks.org/user/tahsinhasib"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-
-
-<table><tr><td valign="top" width="50%">
-
-  ### <p align="center">Tech Stack</p> 
-<div align="center">  
-  <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img>
-  <img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </div></td><td valign="top" width="50%">
-
-  ### <p align="center">Softwares & System</p>
-<div align="center">  
-  <img height="50" src = "https://img.icons8.com/color/256/visual-studio-code-2019.png">
-  <img height="50" src = "https://img.icons8.com/fluency/256/visual-studio.png">
-  <img height="50" src = "https://img.icons8.com/fluency/256/sublime-text.png">
-  <img height="50" src = "https://img.icons8.com/color/256/code-blocks.png"> 
-  <img height="50" src = "https://img.icons8.com/color/256/microsoft-sql-server.png">
-  <img height="50" src = "https://img.icons8.com/color/256/git.png"> 
-  <img height="50" src = "https://img.icons8.com/?size=512&id=108792&format=png"> 
-  <img height="50" src = "https://img.icons8.com/?size=512&id=63208&format=png">
-</div>
- 
-  </td></tr></table>  
-  
