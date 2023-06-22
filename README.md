@@ -1,4 +1,4 @@
-<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql" width="300"><br>
+<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql" width="350">
 
 
 ### Tech Stack :
