@@ -3,7 +3,7 @@
 - <code>Currently working on a website project</code>
 
 <div align="right">
-  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql" width="350">
+  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="350">
 </div>
 
 <h3>Skills</h3>
