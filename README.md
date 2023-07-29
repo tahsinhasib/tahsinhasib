@@ -1,5 +1,6 @@
 <h3 align="center"><b>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</b></h3>
 
+- <code>Undergraduate Computer Science at American International University - Bangladesh</code>
 - <code>Currently working on a website project</code>
 - <code>Implementing Data Structures and Alorithms in Python</code>
 - <code>Latest project</code> [Disha's Portfolio Website](https://tahsinhasib.github.io/Disha-Portfolio/)
