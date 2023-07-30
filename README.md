@@ -17,6 +17,7 @@
   <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="40px">
   <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="40px">
   <img src="https://img.icons8.com/color/256/c-sharp-logo-2.png" width="40px">
+  <img src="https://img.icons8.com/?size=512&id=13441&format=png" width="40px">
 </div>
 
 <h3>Softwares & IDE</h3>
