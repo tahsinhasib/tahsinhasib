@@ -34,6 +34,7 @@
   <img src="https://img.icons8.com/color/256/ms-excel.png" width="40px">
   <img src="https://img.icons8.com/fluency/256/microsoft-teams-2019.png" width="40px">
   <img src="https://img.icons8.com/color/256/adobe-photoshop--v1.png" width="40px">
+  <img src="https://img.icons8.com/?size=512&id=uVERmCBZZACL&format=png" width="40px">
 </div>
 
 
