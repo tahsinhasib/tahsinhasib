@@ -37,6 +37,20 @@
 </div>
 <br>
 
+<table align="center"><tr><td valign="top" width="50%">
+
+
+<div align="center">  
+    <a href="https://codeforces.com/profile/tahsinhasib">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="350px">
+  </a>
+</div></td><td valign="top" width="50%">
+ 
+<div align="center">  
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="350px">
+</div>
+  </td></tr></table>  
+  
 
 
 <div align="center">
