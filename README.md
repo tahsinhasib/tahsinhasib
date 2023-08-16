@@ -40,20 +40,20 @@
 
 
 <div align="center">
-  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="350">
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="350px">
 </div>
 <br>
 
 
 <div align="center">
   <a href="https://codeforces.com/profile/tahsinhasib">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="38%">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="350px">
   </a>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="45%">
+  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="350px">
 </div>
 <br>
 
