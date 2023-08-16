@@ -6,12 +6,9 @@
 - <code>Latest project</code> [Disha's Portfolio Website](https://tahsinhasib.github.io/Disha-Portfolio/)
 
 
-<div align="right">
-  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="350">
-</div>
 
-<h3>Skills</h3>
-<div align="left">
+<h3 align="center">Skills</h3>
+<div align="center">
   <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="40px"><img>
   <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="40px">
   <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="40px">
@@ -22,8 +19,8 @@
 </div>
 
 
-<h3>Softwares & IDE</h3>
-<div align="left">
+<h3 align="center">Softwares & IDE</h3>
+<div align="center">
   <img src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png" width="40px"><img>
   <img src="https://img.icons8.com/?size=512&id=ezj3zaVtImPg&format=png" width="40px">
   <img src="https://img.icons8.com/?size=512&id=A9D8s9odUiU8&format=png" width="40px">
@@ -38,6 +35,28 @@
   <img src="https://img.icons8.com/color/256/adobe-photoshop--v1.png" width="40px">
   <img src="https://img.icons8.com/?size=512&id=uVERmCBZZACL&format=png" width="40px">
 </div>
+<br>
+
+
+
+<div align="center">
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="350">
+</div>
+<br>
+
+
+<div align="center">
+  <a href="https://codeforces.com/profile/tahsinhasib">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="38%">
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="45%">
+</div>
+<br>
+
 
 
 
