@@ -7,8 +7,8 @@
 
 
 
-<h3 align="center">Skills</h3>
-<div align="center">
+<h3 align="left">Skills</h3>
+<div align="left">
   <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="40px"><img>
   <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="40px">
   <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="40px">
@@ -19,8 +19,8 @@
 </div>
 
 
-<h3 align="center">Softwares & IDE</h3>
-<div align="center">
+<h3 align="left">Softwares & IDE</h3>
+<div align="left">
   <img src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png" width="40px"><img>
   <img src="https://img.icons8.com/?size=512&id=ezj3zaVtImPg&format=png" width="40px">
   <img src="https://img.icons8.com/?size=512&id=A9D8s9odUiU8&format=png" width="40px">
@@ -40,21 +40,21 @@
 
   
 
-<div align="center">
-  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="350px">
+<div align="left">
+  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="400px">
 </div>
 <br>
 
 
-<div align="center">
+<div align="left">
   <a href="https://codeforces.com/profile/tahsinhasib">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="350px">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="450px">
   </a>
 </div>
 <br>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="350px">
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="450px">
 </div>
 <br>
 
