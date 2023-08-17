@@ -35,24 +35,25 @@
   <img src="https://img.icons8.com/color/256/adobe-photoshop--v1.png" width="40px">
   <img src="https://img.icons8.com/?size=512&id=uVERmCBZZACL&format=png" width="40px">
 </div>
-<br>
+
 
 
   
-
+<h3 align="left">Languages</h3>
 <div align="left">
   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="400px">
 </div>
-<br>
 
 
+<h3 align="left">Codeforces Stats</h3>
 <div align="left">
   <a href="https://codeforces.com/profile/tahsinhasib">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="450px">
   </a>
 </div>
-<br>
 
+
+<h3 align="left">LeetCode Stats</h3>
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="450px">
 </div>
