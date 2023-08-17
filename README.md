@@ -48,7 +48,7 @@
 <h3 align="left">Codeforces Stats</h3>
 <div align="left">
   <a href="https://codeforces.com/profile/tahsinhasib">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="450px">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="400px">
   </a>
 </div>
 
