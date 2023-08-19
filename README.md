@@ -43,9 +43,14 @@
 <br>
 <div>
   <h3 align="left">Codeforces, Languages & LeetCode stats</h3>
-  <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=7&hide=plsql" width="390px">
+  <a href="https://codeforces.com/profile/tahsinhasib"><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=7&hide=plsql" width="390px"></a>
   <img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="400px">
 </div>
+<br>
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="100%">
+</div>
+<br>
 
 
 <!--
