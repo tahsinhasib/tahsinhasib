@@ -57,7 +57,7 @@
 
 <h3 align="left">LeetCode Stats</h3>
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="700px">
+  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="100%">
 </div>
 <br>
 
