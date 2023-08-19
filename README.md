@@ -48,7 +48,7 @@
 </div>
 
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="100%">
+  <img src="https://leetcard.jacoblin.cool/tahsinhasib?border=2&ext=heatmap" width="100%">
 </div>
 
 
