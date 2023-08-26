@@ -36,9 +36,14 @@
 
 <br>
 <div>
-  <h3 align="left">Codeforces stats</h3>
+  <h3 align="left">Codeforces & LeetCode stats</h3>
   <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=7&hide=plsql" width="330px">
   <a href="https://codeforces.com/profile/tahsinhasib"><img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="340px"></a>
+</div>
+
+
+<div align="left">
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%">
 </div>
 
 <!--
