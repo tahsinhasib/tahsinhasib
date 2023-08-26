@@ -41,9 +41,9 @@
   <a href="https://codeforces.com/profile/tahsinhasib"><img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="340px"></a>
 </div>
 
-
-<div>
-  <img align="center" src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%">
+<br><br><br><br><br><br><br><br><br><br><br>
+<div align="center">
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%">
 </div>
 
 <!--
