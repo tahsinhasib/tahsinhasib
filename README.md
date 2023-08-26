@@ -42,8 +42,8 @@
 </div>
 
 
-<div align="left">
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%">
+<div>
+  <img align="center" src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%">
 </div>
 
 <!--
