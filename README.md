@@ -44,40 +44,5 @@
   <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%">
 </div>
 
-<!--
-<div align="left">
-  <img src="https://leetcard.jacoblin.cool/tahsinhasib?border=2&ext=heatmap" width="100%">
-</div>
--->
-
-
-<!--
-<div>
-  <h3 align="right">Languages</h3>
-  <div align="right">
-    <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide=plsql" width="300px">
-  </div>
-
-  <h3 align="left">Codeforces Stats</h3>
-  <div align="left">
-    <a href="https://codeforces.com/profile/tahsinhasib">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="300px">
-    </a>
-  </div>
-</div>
--->
-
-
-
-
-<!--
-<h3 align="left">LeetCode Stats</h3>
-<div align="left">
-  <img src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="100%">
-</div>
-<br>
--->
-
-
 
 
