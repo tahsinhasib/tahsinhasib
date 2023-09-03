@@ -9,11 +9,12 @@
 </details>
 
 
+
 <details>
   <summary><b>Skills</b></summary>
     <ul type="none">
       <li>
-        <code>C++</code> <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>C#</code> 
+        <p><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,python" /></p>
       </li>
       <li><p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="350px"></p></li>
     </ul>
@@ -21,7 +22,11 @@
 
 <details>
   <summary><b>Softwares & IDE</b></summary>
-    <code>Microsoft Visual Studio Code</code> <code>Microsoft Visual Studio</code> <code>Codeblocks</code> <code>HTML</code> <code>CSS</code> <code>C#</code> 
+    <ul type="none">
+      <li>
+        <p><img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,mysql,ps," /></p>
+      </li>
+    </ul>
 </details>
 
 
@@ -34,12 +39,17 @@
 </details>
 
 
+<details>
+  <summary><b>Competitive Programming</b></summary>
+    
+</details>
+
+
 
 
 <br>
 <div>
   <h3 align="left">Codeforces & LeetCode stats</h3>
-  <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=7&hide=plsql" width="330px">
   <a href="https://codeforces.com/profile/tahsinhasib"><img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="340px"></a>
 </div>
 
