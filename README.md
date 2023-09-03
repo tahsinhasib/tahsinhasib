@@ -35,7 +35,13 @@
   <summary><b>Codeforces & LeetCode stats</b></summary>
     <ul type="none">
       <li>
-        <p><img width="410px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib"/><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap"></p>
+        <p><img src="https://img.shields.io/badge/Contest%20Rating-white" width="110px"> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></p>
+      </li>
+      <li>
+        <p><img width="410px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark"/></p>
+      </li>
+      <li>
+        <p><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap"></p>
       </li>
     </ul>
 </details>
