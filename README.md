@@ -41,22 +41,16 @@
 
 <details>
   <summary><b>Competitive Programming</b></summary>
-    
+    <ul type="none">
+      <li>
+        <p><a href="https://codeforces.com/profile/tahsinhasib"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="340px"></a></p>
+      </li>
+      <li>
+        <p><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%"></p>
+      </li>
+    </ul>
 </details>
 
-
-
-
-<br>
-<div>
-  <h3 align="left">Codeforces & LeetCode stats</h3>
-  <a href="https://codeforces.com/profile/tahsinhasib"><img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="340px"></a>
-</div>
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<div align="center">
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%">
-</div>
 
 
 
