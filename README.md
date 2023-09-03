@@ -1,16 +1,16 @@
-<h3>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</h3>
+<p><i><b>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</b></i></p>
 
 <details>
-  <summary><h3>Projects</h3></summary>
+  <summary><i><b>Projects</b></i></summary>
   <ul type="disc">
-    <li><b>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></b></li>
-    <li><b>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></b></li>
+    <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
+    <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
   </ul>
 </details>
 
 
 <details>
-  <summary><h3>Skils</h3></summary>
+  <summary><i><b>Skils</b></i></summary>
     <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="40px"><img>
     <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="40px">
     <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="40px">
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary><b>Softwares & IDE</b></summary>
+  <summary><i><b>Softwares & IDE</b></i></summary>
     <img src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png" width="40px"><img>
     <img src="https://img.icons8.com/?size=512&id=ezj3zaVtImPg&format=png" width="40px">
     <img src="https://img.icons8.com/?size=512&id=A9D8s9odUiU8&format=png" width="40px">
@@ -39,10 +39,10 @@
 
 
 <details>
-  <summary><b>Certifications & Awards</b></summary>
+  <summary><i><b>Certifications & Awards</b></i></summary>
   <ul type="disc">
-    <li>Academic award at American International University - Bangladesh <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091769365016039424/">Dean's List Award</a></li>
-    <li>Computer hardware and software <a href="https://www.credly.com/badges/a4194921-7625-407c-93e7-48d55fdda832/linked_in_profile">IT Essentials issued by CISCO</a></li>
+    <li><i>Academic award at American International University - Bangladesh <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091769365016039424/">Dean's List Award</a></i></li>
+    <li><i>Computer hardware and software <a href="https://www.credly.com/badges/a4194921-7625-407c-93e7-48d55fdda832/linked_in_profile">IT Essentials issued by CISCO</a></i></li>
   </ul>
 </details>
 
