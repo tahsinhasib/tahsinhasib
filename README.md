@@ -1,7 +1,7 @@
-<p><i><b>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</b></i></p>
+<p><b>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</b></p>
 
 <details>
-  <summary><i><b>Projects</b></i></summary>
+  <summary><b>Projects</b></summary>
   <ul type="disc">
     <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
     <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
@@ -10,18 +10,16 @@
 
 
 <details>
-  <summary><i><b>Skils</b></i></summary>
-    <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="40px"><img>
-    <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="40px">
-    <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="40px">
-    <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="40">
-    <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="40px">
-    <img src="https://img.icons8.com/color/256/c-sharp-logo-2.png" width="40px">
-    <img src="https://img.icons8.com/?size=512&id=13441&format=png" width="40px">
+  <summary><b>Skills</b></summary>
+    <ul type="none">
+      <li><b><i>Languages: </i></b><code>C++</code>,<code>Java</code>,<code>Python</code>,<code>Python</code></li>
+      <li><b><i>Frontend Framework: </i></b><code>C++</code>,<code>Java</code>,<code>Python</code>,<code>Python</code></li>
+      <li><p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=7&hide=plsql" width="330px"></p></li>
+    </ul>
 </details>
 
 <details>
-  <summary><i><b>Softwares & IDE</b></i></summary>
+  <summary><b>Softwares & IDE</b></summary>
     <img src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png" width="40px"><img>
     <img src="https://img.icons8.com/?size=512&id=ezj3zaVtImPg&format=png" width="40px">
     <img src="https://img.icons8.com/?size=512&id=A9D8s9odUiU8&format=png" width="40px">
@@ -39,7 +37,7 @@
 
 
 <details>
-  <summary><i><b>Certifications & Awards</b></i></summary>
+  <summary><b>Certifications & Awards</b></summary>
   <ul type="disc">
     <li><i>Academic award at American International University - Bangladesh <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091769365016039424/">Dean's List Award</a></i></li>
     <li><i>Computer hardware and software <a href="https://www.credly.com/badges/a4194921-7625-407c-93e7-48d55fdda832/linked_in_profile">IT Essentials issued by CISCO</a></i></li>
