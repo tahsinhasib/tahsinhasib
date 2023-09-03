@@ -6,7 +6,6 @@
   <summary><b>Projects</b></summary>
   <ul type="disc">
     <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
-    <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
   </ul>
 </details>
 
@@ -30,6 +29,7 @@
   <ul type="disc">
     <li><i>Academic award at American International University - Bangladesh <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091769365016039424/">Dean's List Award</a></i></li>
     <li><i>Computer hardware and software <a href="https://www.credly.com/badges/a4194921-7625-407c-93e7-48d55fdda832/linked_in_profile">IT Essentials issued by CISCO</a></i></li>
+    <li><i>Intro to Machine Learning <a href="https://www.kaggle.com/learn/certification/tahsinhasib/intro-to-machine-learning">Intro to Machine Learning by Kaggle</a></i></li>
   </ul>
 </details>
 
