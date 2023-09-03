@@ -1,9 +1,7 @@
-<h4>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</h4>
-
-<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=7&hide=plsql" width="330px">
+<h3>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</h3>
 
 <details>
-  <summary><b>Projects</b></summary>
+  <summary><h3>Projects</h3></summary>
   <ul type="disc">
     <li><b>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></b></li>
     <li><b>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></b></li>
@@ -12,7 +10,7 @@
 
 
 <details>
-  <summary><b>Skils</b></summary>
+  <summary><h3>Skils</h3></summary>
     <img src="https://img.icons8.com/?size=512&id=40670&format=png" width="40px"><img>
     <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="40px">
     <img src="https://img.icons8.com/?size=512&id=13679&format=png" width="40px">
