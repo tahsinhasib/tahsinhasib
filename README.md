@@ -1,5 +1,7 @@
 <p><b>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</b></p>
 
+
+
 <details>
   <summary><b>Projects</b></summary>
   <ul type="disc">
@@ -22,6 +24,7 @@
 </details>
 
 
+
 <details>
   <summary><b>Certifications & Awards</b></summary>
   <ul type="disc">
@@ -29,6 +32,7 @@
     <li><i>Computer hardware and software <a href="https://www.credly.com/badges/a4194921-7625-407c-93e7-48d55fdda832/linked_in_profile">IT Essentials issued by CISCO</a></i></li>
   </ul>
 </details>
+
 
 
 <details>
