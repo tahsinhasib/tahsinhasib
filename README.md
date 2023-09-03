@@ -43,10 +43,7 @@
   <summary><b>Competitive Programming</b></summary>
     <ul type="none">
       <li>
-        <p><a href="https://codeforces.com/profile/tahsinhasib"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="340px"></a></p>
-      </li>
-      <li>
-        <p><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "60%"></p>
+        <p><img width="410px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib"/><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap"></p>
       </li>
     </ul>
 </details>
