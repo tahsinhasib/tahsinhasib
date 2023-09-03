@@ -11,21 +11,13 @@
 
 
 <details>
-  <summary><b>Skills</b></summary>
+  <summary><b>Skills & Softwares</b></summary>
     <ul type="none">
       <li>
         <p><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,python" /></p>
+        <p><img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,mysql,ps" /></p>
       </li>
       <li><p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="350px"></p></li>
-    </ul>
-</details>
-
-<details>
-  <summary><b>Softwares & IDE</b></summary>
-    <ul type="none">
-      <li>
-        <p><img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,mysql,ps," /></p>
-      </li>
     </ul>
 </details>
 
@@ -40,7 +32,7 @@
 
 
 <details>
-  <summary><b>Competitive Programming</b></summary>
+  <summary><b>Codeforces & LeetCode stats</b></summary>
     <ul type="none">
       <li>
         <p><img width="410px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib"/><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap"></p>
