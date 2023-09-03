@@ -12,27 +12,16 @@
 <details>
   <summary><b>Skills</b></summary>
     <ul type="none">
-      <li><b><i>Languages: </i></b><code>C++</code>,<code>Java</code>,<code>Python</code>,<code>Python</code></li>
-      <li><b><i>Frontend Framework: </i></b><code>C++</code>,<code>Java</code>,<code>Python</code>,<code>Python</code></li>
-      <li><p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=7&hide=plsql" width="330px"></p></li>
+      <li>
+        <code>C++</code> <code>Java</code> <code>Python</code> <code>HTML</code> <code>CSS</code> <code>C#</code> 
+      </li>
+      <li><p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="350px"></p></li>
     </ul>
 </details>
 
 <details>
   <summary><b>Softwares & IDE</b></summary>
-    <img src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png" width="40px"><img>
-    <img src="https://img.icons8.com/?size=512&id=ezj3zaVtImPg&format=png" width="40px">
-    <img src="https://img.icons8.com/?size=512&id=A9D8s9odUiU8&format=png" width="40px">
-    <img src="https://img.icons8.com/?size=512&id=6RHskkZGRABM&format=png" width="40px">
-    <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="40px">
-    <img src="https://img.icons8.com/color/256/git.png" width="40px">
-    <img src="https://img.icons8.com/fluency/256/obs-studio.png" width="40px">
-    <img src="https://img.icons8.com/color/256/ms-word.png" width="40px">
-    <img src="https://img.icons8.com/color/256/ms-powerpoint--v1.png" width="40px">
-    <img src="https://img.icons8.com/color/256/ms-excel.png" width="40px">
-    <img src="https://img.icons8.com/fluency/256/microsoft-teams-2019.png" width="40px">
-    <img src="https://img.icons8.com/color/256/adobe-photoshop--v1.png" width="40px">
-    <img src="https://img.icons8.com/?size=512&id=uVERmCBZZACL&format=png" width="40px">
+    <code>Microsoft Visual Studio Code</code> <code>Microsoft Visual Studio</code> <code>Codeblocks</code> <code>HTML</code> <code>CSS</code> <code>C#</code> 
 </details>
 
 
