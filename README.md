@@ -39,7 +39,7 @@
   <summary><b>Codeforces & LeetCode stats</b></summary>
     <ul type="none">
       <li>
-        <p><img src="https://img.shields.io/badge/Contest%20Rating-white" width="110px"> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></p>
+        <p><img src="https://img.shields.io/badge/Stackoverflow-white?logo=stackoverflow" width="120px" > <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></p>
       </li>
       <li>
         <p><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark"/></p>
