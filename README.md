@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" width="125px">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white" width="75px">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow" width="140px">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" width="115px">
   </p>
 </div>
 
@@ -12,10 +14,12 @@
   <summary><b>Projects</b></summary>
   <ul type="disc">
     <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
+    <li><i>Exhibit (an event organization windows application using WinForm) <a href="https://github.com/tahsinhasib/Exhibit">Exhibit</a></i></li>
   </ul>
 </details>
 
-
+<p><b>Skills & Softwares</b></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,python,vscode,visualstudio,figma,git,mysql,ps" /></p>
 
 <details>
   <summary><b>Skills & Softwares</b></summary>
