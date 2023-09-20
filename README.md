@@ -1,6 +1,12 @@
 <p><b>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</b></p>
 
-
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" width="125px">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white" width="75px">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px">
+  </p>
+</div>
 
 <details>
   <summary><b>Projects</b></summary>
