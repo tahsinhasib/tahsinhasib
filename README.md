@@ -5,11 +5,11 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" width="125px">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white" width="75px">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow" width="140px">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" width="115px">
+    <a href="https://stackoverflow.com/users/21026575/tahsin-hasib"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" width="125px"></a>
+    <a href="https://www.reddit.com/user/TahsinHasib"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white" width="75px"></a>
+    <a href="https://codeforces.com/profile/tahsinhasib"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></a>
+    <a href="https://leetcode.com/tahsinhasib/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow" width="140px"></a>
+    <a href="https://www.hackerrank.com/tahsinhasib"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" width="115px"></a>
   </p>
 </div>
 
@@ -67,10 +67,10 @@
     <ul type="none" align="center">
       <li><br></li>
       <li>
-        <p><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark"/> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="365px"></p>
+        <p><a href="https://codeforces.com/profile/tahsinhasib"><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark"/></a> <a href="https://github.com/tahsinhasib"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="365px"></a></p>
       </li>
       <li>
-        <p><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap"></p>
+        <p><a href="https://leetcode.com/tahsinhasib/"><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap"></a></p>
       </li>
     </ul>
 </details>
