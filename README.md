@@ -66,7 +66,7 @@
         <p><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark"/> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="365px"></p>
       </li>
       <li>
-        <p><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="800px"></p>
+        <p><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="775px"></p>
       </li>
     </ul>
 </details>
