@@ -1,5 +1,8 @@
 <p><b>A passionate and dedicated computer science engineering student with a focus on front-end web design, user interfaces. A quick learner who thrives in fast-paced environments and enjoys tackling complex challenges.</b></p>
 
+
+<!-- Image Sheilds Section -->
+
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" width="125px">
@@ -10,13 +13,8 @@
   </p>
 </div>
 
-<details>
-  <summary><b>Projects</b></summary>
-  <ul type="disc">
-    <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
-    <li><i>Exhibit (an event organization windows application using WinForm) <a href="https://github.com/tahsinhasib/Exhibit">Exhibit</a></i></li>
-  </ul>
-</details>
+
+<!-- Skills & Softwares Section -->
 
 <div align="center">
   <p><b>Skills & Softwares</b></p>
@@ -38,14 +36,19 @@
 </div>
 
 
+<!-- Projects Section -->
+
+<details>
+  <summary><b>Projects</b></summary>
+  <ul type="disc">
+    <li><i>Portfolio website <a href="https://tahsinhasib.github.io/Disha-Portfolio/">Disha's Portfolio Website</a></i></li>
+    <li><i>Exhibit (an event organization windows application using WinForm) <a href="https://github.com/tahsinhasib/Exhibit">Exhibit</a></i></li>
+  </ul>
+</details>
 
 
 
-
-
-
-
-
+<!-- Certificates Section -->
 
 <details>
   <summary><b>Certifications & Awards</b></summary>
@@ -57,6 +60,7 @@
 </details>
 
 
+<!-- Codeforces, Leetcode Status -->
 
 <details>
   <summary><b>Codeforces & LeetCode stats</b></summary>
