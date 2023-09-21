@@ -18,19 +18,31 @@
   </ul>
 </details>
 
-<p><b>Skills & Softwares</b></p>
-<p><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,python,vscode,visualstudio,figma,git,mysql,ps" /></p>
+<div>
+  <p align="left"><b>Skills & Softwares</b></p>
+  <p>
+    <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="350px">
+  <img src="https://skillicons.dev/icons?i=c" /><img>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=ps" />
+</p>
+</div>
 
-<details>
-  <summary><b>Skills & Softwares</b></summary>
-    <ul type="none">
-      <li>
-        <p><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,python" /></p>
-        <p><img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,mysql,ps" /></p>
-      </li>
-      <li><p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="350px"></p></li>
-    </ul>
-</details>
+
+
+
+
+
 
 
 
