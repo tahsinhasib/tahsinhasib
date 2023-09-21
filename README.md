@@ -18,10 +18,9 @@
   </ul>
 </details>
 
-<div>
-  <p align="left"><b>Skills & Softwares</b></p>
+<div align="center">
+  <p><b>Skills & Softwares</b></p>
   <p>
-    <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="350px">
   <img src="https://skillicons.dev/icons?i=c" /><img>
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=java" />
@@ -46,6 +45,8 @@
 
 
 
+
+
 <details>
   <summary><b>Certifications & Awards</b></summary>
   <ul type="disc">
@@ -60,11 +61,9 @@
 <details>
   <summary><b>Codeforces & LeetCode stats</b></summary>
     <ul type="none">
+      <li><br></li>
       <li>
-        <p><img src="https://img.shields.io/badge/Stackoverflow-white?logo=stackoverflow" width="120px" > <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></p>
-      </li>
-      <li>
-        <p><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark"/></p>
+        <p><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark"/> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="365px"></p>
       </li>
       <li>
         <p><img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap"></p>
