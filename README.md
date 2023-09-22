@@ -8,8 +8,8 @@
     <a href="https://stackoverflow.com/users/21026575/tahsin-hasib"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" width="125px"></a>
     <a href="https://www.reddit.com/user/TahsinHasib"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white" width="75px"></a>
     <a href="https://codeforces.com/profile/tahsinhasib"><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></a>
-    <a href="https://leetcode.com/tahsinhasib/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow" width="140px"></a>
-    <a href="https://www.hackerrank.com/tahsinhasib"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" width="115px"></a>
+    <a href="https://leetcode.com/tahsinhasib/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow" width="150px"></a>
+    <a href="https://www.hackerrank.com/tahsinhasib"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" width="113px"></a>
   </p>
 </div>
 
