@@ -34,7 +34,6 @@
 </p>
 </div>
 
-
 <!-- Projects Section -->
 
 <details>
@@ -57,7 +56,6 @@
     <li><i>Intro to Machine Learning <a href="https://www.kaggle.com/learn/certification/tahsinhasib/intro-to-machine-learning">Intro to Machine Learning by Kaggle</a></i></li>
   </ul>
 </details>
-
 
 
 <!-- Codeforces, Leetcode Status -->
