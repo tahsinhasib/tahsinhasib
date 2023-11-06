@@ -13,8 +13,8 @@
   <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   <img src = "https://aleen42.github.io/badges/src/stackoverflow.svg">
-  <img src = "https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white">
-  <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black">
+  <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white"></a>
+  <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
 </div>
 
 <div>
