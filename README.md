@@ -2,6 +2,11 @@
   <img src = "img/banner.png">
 </div>
 
+<div>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=light&count_private=true&hide_border=false&layout=donut&langs_count=5&hide=plsql" width = "38%">
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=wtf" width = "58%">
+</div>
+
 
 <div>
   <h3>Hey There</h3>
@@ -38,6 +43,6 @@
 <div>
   <h3>Codeforces & Leetcode stats</h3>
   <img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib">
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=wtf" width = "60%">
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=wtf" width = "50%">
 </div>
 
