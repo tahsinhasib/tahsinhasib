@@ -42,9 +42,10 @@
   <img src="https://skillicons.dev/icons?i=ps" />
 </div>
 
+<!--
 <div>
   <h3>Codeforces & Leetcode stats</h3>
   <img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib">
   <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=wtf" width = "50%">
 </div>
-
+-->
