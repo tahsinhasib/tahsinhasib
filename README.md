@@ -6,8 +6,8 @@
 
 
 <div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=light&count_private=true&hide_border=false&layout=donut&langs_count=5&hide=plsql" width = "39%">
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=wtf" width = "60%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=dark&count_private=true&hide_border=false&layout=donut&langs_count=5&hide=plsql" width = "39%">
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=dark" width = "60%">
 </div>
 
 
