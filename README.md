@@ -21,6 +21,8 @@
   <p>I'm an undergraduate <strong>Computer Science & Engineering</strong> student at <strong>American International University - Bangladesh</strong>. I'm a passionate <strong>software developer</strong> with a strong interest in <strong>web development</strong>, driven to solve complex problems and develop innovative solutions that make a difference. My diverse interests also extend to <strong>competitive programming</strong>, where I thrive on tackling complex coding challenges and improve my problem-solving skills</p>
 </div>
 
+
+
 <div>
   <h3>Connect with me</h3>
   <img src = "https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
