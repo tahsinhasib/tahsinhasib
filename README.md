@@ -5,12 +5,12 @@
 -->
 
 
-
+<!--
 <div>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=dark&count_private=true&hide_border=false&layout=donut&langs_count=5&hide=plsql" width = "39%">
   <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=dark" width = "60%">
 </div>
-
+-->
 
 <div>
   <samp>
@@ -46,6 +46,12 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=ps" />
 </div>
+
+
+<div>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=transparent&count_private=true&hide_border=true&layout=donut&langs_count=20&hide_title=true&disable_animations=false">
+</div>
+
 
 <!--
 <div>
