@@ -1,16 +1,3 @@
-<!--
-<div align = "center">
-  <img src = "img/banner.png">
-</div>
--->
-
-
-<!--
-<div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=dark&count_private=true&hide_border=false&layout=donut&langs_count=5&hide=plsql" width = "39%">
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=dark" width = "60%">
-</div>
--->
 
 <div>
   <samp>
@@ -21,7 +8,9 @@
 
 
 <div>
+  <samp>
   <h3>Connect with me</h3>
+  </samp>
   <img src = "https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
   <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
@@ -30,8 +19,13 @@
   <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
 </div>
 
+
+
+
 <div>
+  <samp>
   <h3>Languages and Tools</h3>
+  </samp>
   <img src="https://skillicons.dev/icons?i=c" /><img>
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=java" />
@@ -49,14 +43,11 @@
 
 
 <div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=transparent&count_private=true&hide_border=true&layout=donut&langs_count=20&hide_title=true&disable_animations=false">
+  <samp>
+  <h3>Most used languages</h3>
+  </samp>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&layout=donut&langs_count=20&hide_title=true&disable_animations=false">
 </div>
 
 
-<!--
-<div>
-  <h3>Codeforces & Leetcode stats</h3>
-  <img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib">
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?theme=wtf" width = "50%">
-</div>
--->
+
