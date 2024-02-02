@@ -37,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=mysql" />
