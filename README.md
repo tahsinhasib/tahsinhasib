@@ -42,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=ps" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </div>
 
 
