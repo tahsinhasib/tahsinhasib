@@ -1,4 +1,29 @@
+```python
+$ tahsinhasib
 
+        .;XWMMMMMMMMMMMMMN0dlokN'.  .ckkkkko,.                @tahsinhasib
+      .;0XWMMMMMMMMMMMMMWN0doOXx'.  .dWMMMMO;.                ------------
+    .;0XWMMMMMMMMMMMMMN0dlokNMWx'.  'dWMMMMO;.                Username  : "MD. TAHSIN HASIB"
+   ;0KWMMMMMMMMMMW0dddl;dKNMMMWk;'.',xWMMMMO;.                Pronouns  : "he/him"
+   ."XMMMMNOKMMMMWd'...'kWMMMMMNK0000XWMMMMO;.                Skills    : C, Cpp, Java, Csharp, Html, Css, Python, Javascript,
+   .'dNMMMMMMMNxxxx.  .'kWMMMMMMMMMMMMMMMMMO'.                            VSCode, VS, Git, Anaconda, Arduino, Figma, Adobe PS,
+      ..,cc:OMMMMWd.  .'kWMMMMMWWWWWWMMMMMMO;.                            Linux, Matlab
+          .;0MMMMWd.  .'kWMMMMM0ollllOWMMMMk'.                        
+          .;OMMMMWd.  .'kWMMMMWx'. .'xWMMXk:.                 OS        : Windows, Linux
+          .;0MMMWKl.  .'kWMMMMWx'.  'dWXkc..                  Contact   : "tahsinhasib@gmail.com"
+          .;0MWKx;.   .'kWMMMMWx'   'lxc..                    
+          .;kKd;.     .,kWMMWXx:.   .,.                       
+          .,c;.       .,kWWXx:.     ..                      
+          .'.         .,o0x:.                                 
+                      .'x'..                                  
+                       ..                                     
+```
+
+
+
+
+
+<!--
 <div>
   <samp>
   <i><p align = "justify">I'm an undergraduate <strong>Computer Science & Engineering</strong> student at <strong>American International University - Bangladesh</strong>. I'm a passionate <strong>software developer</strong> with a strong interest in <strong>web development</strong>, driven to solve complex problems and develop innovative solutions that make a difference. My diverse interests also extend to <strong>competitive programming</strong>, where I thrive on tackling complex coding challenges and improve my problem-solving skills.</p></i>
@@ -22,29 +47,7 @@
 
 
 
-<div>
-  <samp>
-  <h3>Languages and Tools</h3>
-  </samp>
-  <img src="https://skillicons.dev/icons?i=c" /><img>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" />
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=ps" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=matlab" />
-</div>
+
 
 
 <div>
@@ -54,5 +57,5 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&layout=donut&langs_count=20&hide_title=true&disable_animations=false">
 </div>
 
-
+-->
 
