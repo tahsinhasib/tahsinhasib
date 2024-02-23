@@ -1,16 +1,16 @@
 ```python
 $ tahsinhasib
 
-        .;XWMMMMMMMMMMMMMN0dlokN'.  .ckkkkko,.                @tahsinhasib
-      .;0XWMMMMMMMMMMMMMWN0doOXx'.  .dWMMMMO;.                ------------
-    .;0XWMMMMMMMMMMMMMN0dlokNMWx'.  'dWMMMMO;.                Username  : "MD. TAHSIN HASIB"
-   ;0KWMMMMMMMMMMW0dddl;dKNMMMWk;'.',xWMMMMO;.                Pronouns  : "he/him"
-   ."XMMMMNOKMMMMWd'...'kWMMMMMNK0000XWMMMMO;.                Skills    : C, Cpp, Java, Csharp, Html, Css, Python, Javascript,
-   .'dNMMMMMMMNxxxx.  .'kWMMMMMMMMMMMMMMMMMO'.                            VSCode, VS, Git, Anaconda, Arduino, Figma, Adobe PS,
-      ..,cc:OMMMMWd.  .'kWMMMMMWWWWWWMMMMMMO;.                            Linux, Matlab
+        .;XWMMMMMMMMMMMMMN0dlokN'.  .ckkkkko,.          @tahsinhasib
+      .;0XWMMMMMMMMMMMMMWN0doOXx'.  .dWMMMMO;.          ------------
+    .;0XWMMMMMMMMMMMMMN0dlokNMWx'.  'dWMMMMO;.          Username  : "MD. TAHSIN HASIB"
+   ;0KWMMMMMMMMMMW0dddl;dKNMMMWk;'.',xWMMMMO;.          Pronouns  : "he/him"
+   ."XMMMMNOKMMMMWd'...'kWMMMMMNK0000XWMMMMO;.          Skills    : C, Cpp, Java, Csharp, Html, Css, Python, Javascript,
+   .'dNMMMMMMMNxxxx.  .'kWMMMMMMMMMMMMMMMMMO'.                      VSCode, VS, Git, Anaconda, Arduino, Figma, Adobe PS,
+      ..,cc:OMMMMWd.  .'kWMMMMMWWWWWWMMMMMMO;.                      Linux, Matlab
           .;0MMMMWd.  .'kWMMMMM0ollllOWMMMMk'.                        
-          .;OMMMMWd.  .'kWMMMMWx'. .'xWMMXk:.                 OS        : Windows, Linux
-          .;0MMMWKl.  .'kWMMMMWx'.  'dWXkc..                  Contact   : "tahsinhasib@gmail.com"
+          .;OMMMMWd.  .'kWMMMMWx'. .'xWMMXk:.           OS        : Windows, Linux
+          .;0MMMWKl.  .'kWMMMMWx'.  'dWXkc..            Contact   : "tahsinhasib@gmail.com"
           .;0MWKx;.   .'kWMMMMWx'   'lxc..                    
           .;kKd;.     .,kWMMWXx:.   .,.                       
           .,c;.       .,kWWXx:.     ..                      
