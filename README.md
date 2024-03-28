@@ -9,7 +9,7 @@
   <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahsinhasib/)"></a>
 </div>
 
-<div>
+<div align="justify">
   <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
