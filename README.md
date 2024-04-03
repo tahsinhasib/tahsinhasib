@@ -1,10 +1,3 @@
-<div align="center">
-  <h3>Codeforces & Leetcode stats</h3>
-  <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></a>
-  <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahsinhasib/) " width="150px"></a>
-</div><br>
-
-
 <table><tr><td valign="top" width="33%">
 
 <h3 align="center">Development</h3> 
@@ -39,6 +32,9 @@
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=python" />
+  <br>
+  <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></a>
+  <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahsinhasib/) " width="150px"></a>
 </div>
   </td></tr></table> 
 
