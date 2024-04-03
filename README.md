@@ -1,39 +1,53 @@
+<table><tr><td valign="top" width="33%">
+
+<h3 align="center">Development</h3> 
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</div></td><td valign="top" width="33%">
+
+  ### <p align="center">Softwares & System</p>
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+  <img src="https://skillicons.dev/icons?i=anaconda" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=ps" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+</div>
+  </td><td valign="top" width="33%">
+  
+  ### <p align="center">Competitive Programming</p>  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</div>
+  </td></tr></table> 
+
+  <table><tr><td valign="top" width="33%">
+
+   
+<div align="center">  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15&hide=plsql" width = "400px"> 
+</div></td><td valign="top" width="33%">
 
 <div align="center">
-  <h3>Connect with me</h3>
-  <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="150px"></a>
-  <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahsinhasib/) " width="150px"></a>
+  <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark"></a>  
 </div>
-
-
-
-<div align="">
-  <h3>Tech Stack</h3>
-  <img src="https://img.shields.io/badge/C-1B2631?style=for-the-badge&logo=c&logoColor=blue">
-  <img src="https://img.shields.io/badge/C%2B%2B-1B2631?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
-  <img src="https://img.shields.io/badge/Java-1B2631?style=for-the-badge&logo=openjdk&logoColor=orange">
-  <img src="https://img.shields.io/badge/HTML5-1B2631?style=for-the-badge&logo=html5&logoColor=orange">
-  <img src="https://img.shields.io/badge/CSS3-1B2631?style=for-the-badge&logo=css3&logoColor=blue">
-  <img src="https://img.shields.io/badge/C%23-1B2631?style=for-the-badge&logo=csharp&logoColor=green">
-  <img src="https://img.shields.io/badge/Python-1B2631?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/JavaScript-1B2631?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/MySQL-1B2631?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-1B2631?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-1B2631?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
-  <img src="https://img.shields.io/badge/Visual_Studio-1B2631?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Notepad++-1B2631.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-  <img src="https://img.shields.io/badge/Sublime_Text-1B2631.svg?&style=for-the-badge&logo=sublime-text&logoColor=Important">
-  <img src="https://img.shields.io/badge/Colab-1B2631?style=for-the-badge&logo=googlecolab">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-1B2631?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Word-1B2631?style=for-the-badge&logo=microsoft-word&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-1B2631?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-1B2631?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-1B2631?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-1B2631?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_chrome-1B2631?style=for-the-badge&logo=Google-chrome&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Edge-1B2631?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-1B2631?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  <img src="https://img.shields.io/badge/Figma-1B2631?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-1B2631?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-1B2631?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </td><td valign="top" width="33%">
+    
+<div align="center">  
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap">
 </div>
+  </td></tr></table>  
