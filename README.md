@@ -39,7 +39,7 @@
 
 <td valign="top" width="50%">
 <div align="center">  
-  <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="420px"></a>
+  <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="350px"></a>
   <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="420px">
 </div>
   
