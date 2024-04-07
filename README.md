@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="65%">
 <h3 align="center">Skills</h3> 
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=c" />
@@ -32,15 +32,19 @@
   <img src="https://skillicons.dev/icons?i=windows" />
   <img src="https://skillicons.dev/icons?i=ubuntu" />
 </div>
-  <div align="center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=one_dark_pro&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql&hide_title=false">
-  </div>
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="35%">
 <div align="center">  
-  <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="350px"></a>
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="420px">
+<div align="center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=one_dark_pro&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql&hide_title=false" width="100%">
+</div>
+  <div>
+  <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="100%"></a>
+  </div>
+  <div>
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="100%">
+  </div>
 </div>
   
 
