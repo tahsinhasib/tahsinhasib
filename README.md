@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="62%">
 <h3 align="center">Skills</h3> 
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=c" />
@@ -34,7 +34,7 @@
 </div>
 </td>
 
-<td valign="top" width="35%">
+<td valign="top" width="38%">
 <div align="center">  
 <div align="center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=one_dark_pro&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql&hide_title=false" width="100%">
