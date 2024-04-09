@@ -30,6 +30,9 @@
   <img src="https://skillicons.dev/icons?i=windows" />
   <img src="https://skillicons.dev/icons?i=ubuntu" />
 </div>
+  <div>
+    <img src= "https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&bg_color=000000&color=00ff11&line=04ff00&point=04ff00&area=true&hide_border=true">
+  </div>
 </td>
 
 <td valign="top" width="38%">
