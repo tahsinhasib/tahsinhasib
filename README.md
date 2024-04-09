@@ -31,14 +31,14 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" />
 </div>
   <div>
-    <img src= "https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&bg_color=000000&color=00ff11&line=04ff00&point=04ff00&area=true&hide_border=true">
+    <img src= "https://github-readme-activity-graph.vercel.app/graph?username=tahsinhasib&theme=react-dark">
   </div>
 </td>
 
 <td valign="top" width="38%">
 <div align="center">  
 <div align="center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=one_dark_pro&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql&hide_title=false" width="100%">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=pie&langs_count=15&hide=plsql&hide_title=false" width="100%">
 </div>
   <div>
   <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="100%"></a>
