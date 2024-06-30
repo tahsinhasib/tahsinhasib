@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/Resume-255E63?style=flat&logo=About.me&logoColor=white">
   </div>
 </div><br>
+
  
 <div align="center">
   <div><i>I'm a Software Engineering Student | Developer | Learner | Gamer</i></div>
