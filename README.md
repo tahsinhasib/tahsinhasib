@@ -18,8 +18,8 @@
 
 <div align="center">
   <h3><i>Competitive Programming & LeetCode</i></h3>
-  <img src="https://skillicons.dev/icons?i=c" />&nbsp
   <img src="https://skillicons.dev/icons?i=cpp" />&nbsp
+  <img src="https://skillicons.dev/icons?i=java" />&nbsp
   <img src="https://skillicons.dev/icons?i=python" />&nbsp
   
 </div>
@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=html" />&nbsp
   <img src="https://skillicons.dev/icons?i=css" />&nbsp
   <img src="https://skillicons.dev/icons?i=javascript" />&nbsp
+  <img src="https://skillicons.dev/icons?i=cs" />&nbsp
   <img src="https://skillicons.dev/icons?i=figma" />&nbsp
   <img src="https://skillicons.dev/icons?i=ps" />&nbsp
 </div>
@@ -38,6 +39,7 @@
   <img src="https://skillicons.dev/icons?i=javascript" />&nbsp
   <img src="https://skillicons.dev/icons?i=php" />&nbsp
   <img src="https://skillicons.dev/icons?i=python" />&nbsp
+  <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp
 </div>
 
 <div align="center">
@@ -50,6 +52,7 @@
   <h3><i>Development Tools</i></h3>
   <img src="https://skillicons.dev/icons?i=vscode" />&nbsp
   <img src="https://skillicons.dev/icons?i=visualstudio" />&nbsp
+  <img src="https://skillicons.dev/icons?i=pycharm" />&nbsp
   <img src="https://skillicons.dev/icons?i=sublime" />&nbsp
   <img src="https://skillicons.dev/icons?i=anaconda" />&nbsp
   <img src="https://skillicons.dev/icons?i=arduino" />&nbsp
@@ -61,3 +64,4 @@
 </div>
 
 
+  
