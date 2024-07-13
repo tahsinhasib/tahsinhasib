@@ -15,29 +15,49 @@
   <div><i>Frequently solving problems on Codeforces | LeetCode</i></div>
 </div>
 
+
 <div align="center">
-  <h3>Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" />
-  <img src="https://skillicons.dev/icons?i=sublime" />
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=ps" />
-  <img src="https://skillicons.dev/icons?i=matlab" />
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" />
+  <h3><i>Competitive Programming & LeetCode</i></h3>
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp
+  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp
+  
+</div>
+
+<div align="center">
+  <h3><i>Frontend Development</i></h3>
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp
+  <img src="https://skillicons.dev/icons?i=javascript" />&nbsp
+  <img src="https://skillicons.dev/icons?i=figma" />&nbsp
+  <img src="https://skillicons.dev/icons?i=ps" />&nbsp
+</div>
+
+<div align="center">
+  <h3><i>Backend Development</i></h3>
+  <img src="https://skillicons.dev/icons?i=javascript" />&nbsp
+  <img src="https://skillicons.dev/icons?i=php" />&nbsp
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp
+</div>
+
+<div align="center">
+  <h3><i>Machine Learning & AI</i></h3>
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp
+  <img src="https://skillicons.dev/icons?i=pytorch" />&nbsp
+</div>
+
+<div align="center">
+  <h3><i>Development Tools</i></h3>
+  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp
+  <img src="https://skillicons.dev/icons?i=visualstudio" />&nbsp
+  <img src="https://skillicons.dev/icons?i=sublime" />&nbsp
+  <img src="https://skillicons.dev/icons?i=anaconda" />&nbsp
+  <img src="https://skillicons.dev/icons?i=arduino" />&nbsp
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp
+  <img src="https://skillicons.dev/icons?i=matlab" />&nbsp
+  <img src="https://skillicons.dev/icons?i=windows" />&nbsp
+  <img src="https://skillicons.dev/icons?i=linux" />&nbsp
+  <img src="https://skillicons.dev/icons?i=ubuntu" />&nbsp
 </div>
 
 
