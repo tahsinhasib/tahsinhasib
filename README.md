@@ -15,7 +15,6 @@
   <div><i>Frequently solving problems on Codeforces | LeetCode</i></div>
 </div>
 
-<br>
 
 <div>
   <h3><i>Development Tools</i></h3>
