@@ -15,14 +15,45 @@
   <div><i>Frequently solving problems on Codeforces | LeetCode</i></div>
 </div>
 
+<br>
 
-<div align="center">
-  <h3><i>Competitive Programming & LeetCode</i></h3>
-  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp
-  <img src="https://skillicons.dev/icons?i=java" />&nbsp
-  <img src="https://skillicons.dev/icons?i=python" />&nbsp
-  
+
+<div>
+  <table>
+    <tr>
+      <td><b><i>Competitive Programming & LeetCode</i></b></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+    </tr>
+  </table>
 </div>
+
+<div>
+  <table>
+    <tr>
+      <td><b><i>Frontend Development</i></b></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python" /></td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 <div align="center">
   <h3><i>Frontend Development</i></h3>
