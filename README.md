@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=ps" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://skillicons.dev/icons?i=pycharm" />
