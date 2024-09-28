@@ -14,5 +14,5 @@
 
 <div>
     <img align="center" src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="435px">
-    <a href="https://codeforces.com/profile/tahsinhasib"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="365px"></a>
+    <a href="https://codeforces.com/profile/tahsinhasib"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark&border_color=#000000" width="365px"></a>
 </div>
