@@ -8,11 +8,11 @@
 
 
 <div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=dark&hide_border=true" />
-    <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=dark&count_private=true&hide_border=true&layout=compact&langs_count=8&hide_title=false&disable_animations=false&card_width=320">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tahsinhasib&theme=dark&hide_border=false" />
+    <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=dark&count_private=true&hide_border=false&layout=compact&langs_count=8&hide_title=false&disable_animations=false&card_width=320">
 </div>
 
 <div align="center">
     <img align="center" src="https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="435px">
-    <a href="https://codeforces.com/profile/tahsinhasib"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark&border_color=#000000" width="365px"></a>
+    <a href="https://codeforces.com/profile/tahsinhasib"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=dark" width="365px"></a>
 </div>
