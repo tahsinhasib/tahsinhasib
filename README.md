@@ -1,5 +1,5 @@
-<div>
-<img src="/img/signature_1.png">
+<div align="center">
+    <img src="/img/signature_1.png" width="60%">
 </div>
 
 
