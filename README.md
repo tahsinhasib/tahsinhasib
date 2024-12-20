@@ -11,61 +11,8 @@
 <h3 align="center">Development Tools</h3>
 
 
-<table>
-    <tr>
-        <td>
-            <p align="center"><b>Skills</b></p>
-            <p align="center">
-                <img src="https://skillicons.dev/icons?i=cpp,cs,python,-&perline=3" />
-            </p>
-        </td>
-        <td>
-            <p align="center"><b>Frontend</b></p>
-            <p align="center">
-                <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=3" />
-            </p>
-        </td>
-        <td>
-            <p align="center"><b>Backend</b></p>
-            <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,php,js,dotnet,nodejs&perline=3" />
-</p>
-        </td>
-        <td>
-            <p align="center"><b>AI / ML</b></p>
-            <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pycharm,-&perline=3" />
-</p>
-        </td>
-        <td>
-            <p align="center"><b>Database</b></p>
-            <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,-,-,-&perline=3" />
-</p>
-        </td>
-        <td>
-            <p align="center"><b>Tools</b></p>
-            <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,matlab,git,ps&perline=3" />
-</p>
-        </td>
-    </tr>
-</table>
 
-
-<h3 align="center">Codeforces & Leetcode</h3>
-<table>
-    <tr>
-        <td align="center"><p><a href="https://codeforces.com/profile/tahsinhasib"><img align="" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="80%"></a></p></td>
-        <td align="center">
-            <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="80%">
-        </td>
-    </tr>
-</table>
-
-
-<!--
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,git,matlab&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,git,matlab" />
 </p>
--->
+
