@@ -52,6 +52,18 @@
     </tr>
 </table>
 
+
+<h3 align="center">Codeforces & Leetcode</h3>
+<table>
+    <tr>
+        <td align="center"><p><a href="https://codeforces.com/profile/tahsinhasib"><img align="" src="https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width="80%"></a></p></td>
+        <td align="center">
+            <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width="80%">
+        </td>
+    </tr>
+</table>
+
+
 <!--
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,git,matlab&perline=3" />
