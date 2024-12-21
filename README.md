@@ -8,11 +8,12 @@
 </div>
 
 <h2></h2>
-<h3 align="center">Development Tools</h3>
+<h3 align="center"><i>Development Tools</i></h3>
 
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,git,matlab" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,figma,git,matlab" />
 </p>
+
 
