@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/Resume-255E63?style=flat&logo=About.me&logoColor=white">
+<a href="https://drive.google.com/drive/folders/15V-w3p39VyjBKE1WvMkXVzJOI31abfEY"></a><img src="https://img.shields.io/badge/Resume-255E63?style=flat&logo=About.me&logoColor=white">
 <img src = "https://aleen42.github.io/badges/src/stackoverflow.svg">
   <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white"></a>
   <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
@@ -19,7 +19,7 @@
 
 <div align="center">
 <p>
-<a href="https://drive.google.com/drive/folders/15V-w3p39VyjBKE1WvMkXVzJOI31abfEY"></a><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=compact&langs_count=15&hide=plsql&hide_title=false" width="38%"> <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="44%"></a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=compact&langs_count=15&hide=plsql&hide_title=false" width="38%"> <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="44%"></a>
 </p>
 </div>
 
