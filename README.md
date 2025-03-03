@@ -5,18 +5,24 @@
 </div>
 -->
 
-```yaml
-I am a hardworking and determined recent graduate with a degree in Computer Science & Engineering seeking 
+
+<div align="center">
+  <samp>
+  <i><p align = "justify">I am a hardworking and determined recent graduate with a degree in Computer Science & Engineering seeking 
 an entry level position to develop innovative solutions in web development including frontend and backend. I am 
 interested in learning the industry’s best practices to produce appealing digital products that leave a lasting 
-impression on users as well as contributing to organizational goals. 
+impression on users as well as contributing to organizational goals. </p></i>
+  </samp>
+</div>
 
-```
-
-
+<div align="center">
+<img src = "https://aleen42.github.io/badges/src/stackoverflow.svg">
+  <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white"></a>
+  <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
+</div>
 <!-- Skills Section -->
 
-<details>
+<details align="center">
   <summary><b>Development Tools</b></summary>
     <br>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,figma,git,matlab,postman" />
@@ -25,7 +31,7 @@ impression on users as well as contributing to organizational goals.
 
 <!-- Certificates Section -->
 
-<details>
+<details align="center">
   <summary><b>Certifications & Awards</b></summary>
   <ul type="disc">
     <li><i>Academic award at American International University - Bangladesh <a href="https://www.linkedin.com/feed/update/urn:li:activity:7091769365016039424/">Dean's List Award</a></i></li>
