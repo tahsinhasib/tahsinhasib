@@ -1,11 +1,17 @@
-<div align="center">
-    <img src="/img/signature_1.png" width=40%">
-</div>
+<!--
 <div align="center">
 <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib" width="140px"></a> &nbsp
 <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftahsinhasib&logo=leetcode&logoColor=yellow)](https://leetcode.com/tahsinhasib/) " width="140px"></a> &nbsp
 </div>
+-->
 
+```yaml
+I am a hardworking and determined recent graduate with a degree in Computer Science & Engineering seeking 
+an entry level position to develop innovative solutions in web development including frontend and backend. I am 
+interested in learning the industry’s best practices to produce appealing digital products that leave a lasting 
+impression on users as well as contributing to organizational goals. 
+
+```
 
 
 <!-- Skills Section -->
@@ -35,4 +41,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,figma,git,matlab,postman" />
 </p>
 -->
+
+
+
+
 
