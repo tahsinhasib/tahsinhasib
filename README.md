@@ -18,7 +18,7 @@
 
 <div align="center">
 <p>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=compact&langs_count=15&hide=plsql&hide_title=false" width="30%"> <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="35%"></a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=compact&langs_count=15&hide=plsql&hide_title=false" width="40%"> <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark" width="46%"></a>
 </p>
 </div>
 
