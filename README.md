@@ -5,7 +5,9 @@
 </div>
 -->
 
-
+<div align="center">
+  <p><b>💡 Turning caffeine into code and ideas into reality 💡</b></p>
+</div>
 
 
 <div align="center">
