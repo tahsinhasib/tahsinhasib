@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p><b>💡 Turning caffeine into code and ideas into reality 💡</b></p>
+  <p></p>
 </div>
 
 
@@ -12,11 +12,23 @@
 </div>
 <br>
 
+
+
+
+<table><tr><td valign="top" width="33%">
+<div align="center">  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15&hide=plsql" width = "400px"> 
+</div></td><td valign="top" width="33%">
+
 <div align="center">
-<p>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15&hide=plsql&hide_title=false">
-</p>
+  <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width = "400px"></a>
 </div>
+  </td><td valign="top" width="33%">
+    
+<div align="center">  
+  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "100%">
+</div>
+</td></tr></table>  
 
 
 
