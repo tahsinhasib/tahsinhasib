@@ -15,11 +15,13 @@
 
 
 
-<div>
-  <h4>🌐 Web Development</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git&perline=3"/>
-  <h4>🌐 Web Development</h4>
+<div align="center">
+  <h4>🌐 Frontend 🧠 Data Science & AI  OS & Platform ⚙️ Backend </h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,mysql,postgres,vscode,visualstudio,postman,figma,npm,git&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,tensorflow"/>
   <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git&perline=3"/>
 </div>
 
 
@@ -35,4 +37,7 @@
 </div>
 
 
-
+<div align="center">
+  <h4>🧠 Backend</h4>
+  <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
+</div>
