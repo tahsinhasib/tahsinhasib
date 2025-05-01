@@ -14,8 +14,8 @@
 ---
 
 
-<div align="center">
-  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide_title=false" width="50%">
+<div align="left">
+  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide_title=false" width="40%">
   <h4>🌐 Frontend Development</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss"/>
   <h4>⚙️ Backend Development</h4>
