@@ -13,26 +13,26 @@
 
 ---
 
+
+
 <div>
   <h4>🌐 Web Development</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git,"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git&perline=3"/>
+  <h4>🌐 Web Development</h4>
+  <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
 </div>
 
 
-<div>
+<div align="center">
   <h4>🧠 Data Science & AI</h4>
   <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
 </div>
 
 
-<div>
+<div align="center">
   <h4>🖥️ OS & Platform</h4>
   <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
 </div>
 
-
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>  | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git,"/>  | Value 3  |
 
 
