@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p><b>Md. Tahsin Hasib</b></p>
+  <p><h3>Md. Tahsin Hasib</h3></p>
   <p align="justify">A Computer Science & Engineering undergraduate from Bangladesh, currently seeking opportunities as a Software Developer Intern. I'm passionate about building practical, real-world solutions through software, with a strong interest in full-stack development.</p>
 </div>
 
@@ -13,39 +13,17 @@
 
 ---
 
-<!--
-<table><tr><td valign="top" width="33%">
-<div align="center">  
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&langs_count=15&hide=plsql" width = "400px"> 
-</div></td><td valign="top" width="33%">
-
-<div align="center">
-  <a href = "https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&theme=github_dark" width = "400px"></a>
+<div>
+  <h4>🌐 Web Development</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,"/>
 </div>
-  </td><td valign="top" width="33%">
-    
-<div align="center">  
-  <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "100%">
+
+
+<div>
+  <h4>🧠 Data Science & AI</h4>
+  <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
 </div>
-</td></tr></table>  
--->
 
-
-
-<!-- 38,
- <a href = "https://codeforces.com/profile/tahsinhasib" align="left"><img src = "https://codeforces-readme-stats.vercel.app/api/card?username=tahsinhasib&hide_border=true&theme=github_dark"></a>
-
-44-->
-
-
-<!-- Skills Section -->
-<!--
-<details align="center">
-  <summary><b>Development Tools</b></summary>
-    <br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,bootstrap,dotnet,nodejs,php,tensorflow,ps,pycharm,sublime,vscode,visualstudio,figma,git,matlab,postman" />
-</details>
--->
 
 
 
