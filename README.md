@@ -15,7 +15,7 @@
 
 <div>
   <h4>🌐 Web Development</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git,"/>
 </div>
 
 
@@ -25,7 +25,14 @@
 </div>
 
 
+<div>
+  <h4>🖥️ OS & Platform</h4>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
+</div>
 
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>  | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git,"/>  | Value 3  |
 
 
