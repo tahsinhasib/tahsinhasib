@@ -14,30 +14,21 @@
 ---
 
 
-
 <div align="center">
-  <h4>🌐 Frontend 🧠 Data Science & AI  OS & Platform ⚙️ Backend </h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,mysql,postgres,vscode,visualstudio,postman,figma,npm,git&perline=3"/>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet"/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,tensorflow"/>
-  <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nestjs,dotnet,nodejs,mysql,postgres,vscode,visualstudio,postman,figma,npm,git&perline=3"/>
-</div>
-
-
-<div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=pie&langs_count=15&hide=plsql&hide_title=false" align="right" width="35%">
+  <h4>🌐 Frontend Development</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss"/>
+  <h4>⚙️ Backend Development</h4>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,cs"/>
+  <h4>🔧 Developer Tools / IDEs</h4>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,pycharm,figma,autocad,ps"/>
   <h4>🧠 Data Science & AI</h4>
   <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
-</div>
-
-
-<div align="center">
   <h4>🖥️ OS & Platform</h4>
   <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
 </div>
 
 
-<div align="center">
-  <h4>🧠 Backend</h4>
-  <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
-</div>
+
+
+
