@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p><h3>Md. Tahsin Hasib</h3></p>
+  <p><img src="img/signature_1.png"</p>
   <p align="justify">A Computer Science & Engineering undergraduate from Bangladesh, currently seeking opportunities as a Software Developer Intern. I'm passionate about building practical, real-world solutions through software, with a strong interest in full-stack development.</p>
 </div>
 
