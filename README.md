@@ -19,7 +19,7 @@
   <h4>🌐 Frontend Development</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss"/>
   <h4>⚙️ Backend Development</h4>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,cs,mysql,postgres"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,cs,mysql,postgres"/>
   <h4>🔧 Developer Tools / IDEs</h4>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,pycharm,figma,autocad,ps"/>
   <h4>🧠 Data Science & AI</h4>
