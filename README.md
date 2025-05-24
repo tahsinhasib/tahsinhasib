@@ -17,11 +17,11 @@
 <div align="left">
   <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide_title=false" width="40%">
   <h4>🌐 Frontend Development</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nextjs&perline=6"/>
   <h4>⚙️ Backend Development</h4>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,cs,mysql,postgres"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,cs,mysql,postgres&perline=6"/>
   <h4>🔧 Developer Tools / IDEs</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,pycharm,figma,autocad,ps"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,pycharm,figma,autocad,ps&perline=6"/>
   <h4>🧠 Data Science & AI</h4>
   <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
   <h4>🖥️ OS & Platform</h4>
