@@ -1,6 +1,5 @@
 
 <div align="center">
-  <p><img src="img/signature_1.png"</p>
   <p align="justify">A Computer Science & Engineering undergraduate from Bangladesh, currently seeking opportunities as a Software Developer Intern. I'm passionate about building practical, real-world solutions through software, with a strong interest in full-stack development.</p>
 </div>
 
@@ -15,17 +14,8 @@
 
 
 <div align="left">
-  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinhasib&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=donut&langs_count=15&hide_title=false" width="40%">
-  <h4>🌐 Frontend Development</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nextjs&perline=6"/>
-  <h4>⚙️ Backend Development</h4>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,cs,mysql,postgres&perline=6"/>
-  <h4>🔧 Developer Tools / IDEs</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,pycharm,figma,autocad,ps&perline=6"/>
-  <h4>🧠 Data Science & AI</h4>
-  <img src="https://skillicons.dev/icons?i=r,python,tensorflow"/>
-  <h4>🖥️ OS & Platform</h4>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu"/>
+  <h4>Development Tools</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwindcss,nextjs,nestjs,nodejs,dotnet,cs,mysql,postgres,vscode,visualstudio,sublime,pycharm,figma,autocad,ps,r,python,tensorflow,windows,ubuntu"/>
 </div>
 
 
