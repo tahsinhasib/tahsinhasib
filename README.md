@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1XuPw0mz_IlVQLcXsanrZUjjnwdKbLUlL/view?usp=drive_link"><img src="https://img.shields.io/badge/TahsinHasibCV-255E63?style=flat&logo=About.me&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/21026575/tahsin-hasib"><img src = "https://aleen42.github.io/badges/src/stackoverflow.svg"></a>
-  <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://codeforces-readme-stats.vercel.app/api/badge?username=tahsinhasib"></a>
-  <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a>
+<a href="https://drive.google.com/file/d/1XuPw0mz_IlVQLcXsanrZUjjnwdKbLUlL/view?usp=drive_link"><img src="https://img.shields.io/badge/TahsinHasibCV-255E63?style=for-the-badge&logo=CV&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/21026575/tahsin-hasib"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/tahsinhasib"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
+  <a href="https://leetcode.com/tahsinhasib/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 </div>
 
 ---
