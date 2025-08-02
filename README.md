@@ -28,6 +28,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Nextjs-%230B2F3D?style=flat&logo=nestjs&logoColor=white&labelColor=070A13">
   <img alt="Static Badge" src="https://img.shields.io/badge/Nodejs-%230B2F3D?style=flat&logo=node.js&logoColor=white&labelColor=070A13">
   <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-%230B2F3D?style=flat&logo=swagger&logoColor=white&labelColor=070A13">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%230B2F3D?logo=notion&labelColor=%23070A13">
 
 
 </div>
